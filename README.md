@@ -45,3 +45,7 @@ click that takes longer than 0.4 s stays a regular force click.
   Remove the app from the Accessibility list and add it again, or build with a real identity:
   `SIGN_ID="Apple Development: …" ./build.sh`.
 - Debug logging: `FMC_DEBUG=1 ./ForceMiddleClick.app/Contents/MacOS/ForceMiddleClick` and watch the event/stage log.
+
+## License
+
+[MIT](LICENSE)
